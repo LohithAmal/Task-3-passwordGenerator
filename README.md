@@ -7,3 +7,20 @@ In order to generate strong random password user are prompt to select the disire
 
 ### Application home screen
 ![](images/passwordGenerator-1.JPG)
+### when user click generate application prompt to ask to enter length of your password
+![](images/passwordGenerator-2.JPG)
+### application prompt to ask do you want to include symbols(ok or cancel).
+![](images/passwordGenerator-3.JPG)
+### application prompt to ask do you want to include numbers(ok or cancel).
+![](images/passwordGenerator-4.JPG)
+### application prompt to ask do you want to include uppercase alphabets(ok or cancel).
+![](images/passwordGenerator-5.JPG)
+### application prompt to ask do you want to include lowercase alphabets(ok or cancel).
+![](images/passwordGenerator-6.JPG)
+### application now generate user password as per user selections.
+![](images/passwordGenerator-7.JPG)
+
+##Usage
+This application will help user to create a strong random password.
+
+### credits and acknowledgement 
