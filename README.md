@@ -24,7 +24,7 @@ In order to generate strong random password user are prompt to select the disire
 This application will help user to create a strong random password.
 
 ### credits and acknowledgement 
-https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
-https://stackoverflow.com/questions/1497481/javascript-password-generator
-https://www.geeksforgeeks.org/how-to-generate-a-random-password-using-javascript/
-https://www.theamplituhedron.com/projects/JavaScript-Random-Password-Generator/
+>>https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
+>>https://stackoverflow.com/questions/1497481/javascript-password-generator
+>>https://www.geeksforgeeks.org/how-to-generate-a-random-password-using-javascript/
+>>https://www.theamplituhedron.com/projects/JavaScript-Random-Password-Generator/
