@@ -28,3 +28,9 @@ This application will help user to create a strong random password.
 #### https://stackoverflow.com/questions/1497481/javascript-password-generator
 #### https://www.geeksforgeeks.org/how-to-generate-a-random-password-using-javascript/
 #### https://www.theamplituhedron.com/projects/JavaScript-Random-Password-Generator/
+
+## Application live deploy link
+#### https://lohithamal.github.io/Task-3-passwordGenerator/
+
+## Github Repository LInk
+
